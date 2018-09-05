@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-C:/Users/Ray/Documents/unity projects/NS Challenge/build1.apk
+C:/Users/Ray/Documents/unity projects/NS-VR-Challenge/NS Challenge/build2.apk
 SceneListBegin?
 Assets/Scenes/SampleScene.unity
 SceneListEnd?
