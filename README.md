@@ -1,8 +1,8 @@
-#NS VR Challenge!
+# NS VR Challenge!
 
 One of our prof was awesome enough to bring us quality mobile VR gear for the students in our NS Lehman Club. The Catch? you have to make a VR application. Anything!. 
 
-##Project Requirements:
+## Project Requirements:
 
 I decided to give the project a try using Untiy3D so the requirements revolve around what you ned to make that work.
 
@@ -20,10 +20,10 @@ I decided to give the project a try using Untiy3D so the requirements revolve ar
 *Some notes:* Make sure that you have the drivers installed for the device that you will be testing your app on. I used a OnePlus 6 and it was a pain because... OnePlus? 
 The drivers for oneplus are on the phone itself and will show once you connect the phone. I spent quite a bit figuring this out. 
 
-##Run:
+## Running the app:
 -The easiest way to run the app by far is to simply download the APK file to your device and install it from there. This was the way that I had to test in the OP6 since it wouldn't be recognized in USB debugging mode. 
 
 -You can run it as a simulation from unity itself. However this isn't always reliable 
 
-##The App
-The app is pretty baren and it might or might not be improoved from it's position as a very rough draft. It does what it's supposed to: To be a VR app. 
+## The App
+The app is pretty baren and it might or might not be improoved from it's position as a very rough draft. It does what it's supposed to: To be a VR app. But making this app in the fly was very enjoyable so I might be making some improovements to it. 
