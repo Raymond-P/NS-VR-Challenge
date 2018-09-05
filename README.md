@@ -27,3 +27,7 @@ The drivers for oneplus are on the phone itself and will show once you connect t
 
 ## The App
 The app is pretty baren and it might or might not be improoved from it's position as a very rough draft. It does what it's supposed to: To be a VR app. But making this app in the fly was very enjoyable so I might be making some improovements to it. 
+
+*note:* Different versions the app will be kept using build numbers. As of the moment there is not a solid deffinition of what a new version is, but it will be kept as in whenever is ready to be tested in an android device. 
+
+- **update** Thinking for room for improovement in this barren app I added and modified a few things. The latest version "build3.apk" contains a newer prettier tree that flutters with the wind. 
